@@ -4,3 +4,6 @@
   - 1,000 다운로드 달성
 - 라이브 개발 경험
   - 리뷰 의견을 반영한 업데이트 진행
+
+# 팀 규칙
+- [C# 명명 규칙](https://github.com/Pixel-Friends/.github/issues/1)
